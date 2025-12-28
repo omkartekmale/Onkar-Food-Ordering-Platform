@@ -10,10 +10,17 @@
   "author": "Omkar Tekmale",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.16.1"
+    "autoprefixer": "^10.4.23",
+    "parcel": "^2.16.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "@tailwindcss/postcss": "^4.1.18",
     "react": "^19.2.1",
-    "react-dom": "^19.2.1"
+    "react-dom": "^19.2.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.20.1"
   }
 }
